@@ -1,0 +1,8 @@
+C:\Users\91808\Documents\Assingment\CharecterExits\CharecterExits\bin\Debug\CharecterExits.exe.config
+C:\Users\91808\Documents\Assingment\CharecterExits\CharecterExits\bin\Debug\CharecterExits.exe
+C:\Users\91808\Documents\Assingment\CharecterExits\CharecterExits\bin\Debug\CharecterExits.pdb
+C:\Users\91808\Documents\Assingment\CharecterExits\CharecterExits\obj\Debug\CharecterExits.csproj.AssemblyReference.cache
+C:\Users\91808\Documents\Assingment\CharecterExits\CharecterExits\obj\Debug\CharecterExits.csproj.SuggestedBindingRedirects.cache
+C:\Users\91808\Documents\Assingment\CharecterExits\CharecterExits\obj\Debug\CharecterExits.csproj.CoreCompileInputs.cache
+C:\Users\91808\Documents\Assingment\CharecterExits\CharecterExits\obj\Debug\CharecterExits.exe
+C:\Users\91808\Documents\Assingment\CharecterExits\CharecterExits\obj\Debug\CharecterExits.pdb
